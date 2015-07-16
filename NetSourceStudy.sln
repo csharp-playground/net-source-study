@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetSourceStudy", "NetSourceStudy\NetSourceStudy.csproj", "{FD66AF7E-BE10-4C52-964E-A23F275BADAC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RxJs.Tests", "RxJs.Tests\RxJs.Tests.csproj", "{B9422A9A-913D-4ADA-B4DC-9AB6BAB39EFB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{FD66AF7E-BE10-4C52-964E-A23F275BADAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD66AF7E-BE10-4C52-964E-A23F275BADAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD66AF7E-BE10-4C52-964E-A23F275BADAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9422A9A-913D-4ADA-B4DC-9AB6BAB39EFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9422A9A-913D-4ADA-B4DC-9AB6BAB39EFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9422A9A-913D-4ADA-B4DC-9AB6BAB39EFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9422A9A-913D-4ADA-B4DC-9AB6BAB39EFB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
